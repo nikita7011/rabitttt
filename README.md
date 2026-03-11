@@ -1,6 +1,6 @@
 # Talking Rabbitt
 
-Most business questions take 10 minutes to answer — finding the file, filtering the data, building the chart. Talking Rabbitt brings that down to 5 seconds.
+Most business questions take 10 minutes to answer finding the file, filtering the data, building the chart. Talking Rabbitt brings that down to 5 seconds.
 
 Upload a CSV, ask a question in plain English, get a clear answer with a chart. No SQL, no pivot tables, no dashboard needed.
 
@@ -28,7 +28,7 @@ Open **http://localhost:5173**
 ## How it works
 
 1. Drop any CSV file onto the screen
-2. Ask anything — *"which region had the highest revenue?"*
+2. Ask anything *"which region had the highest revenue?"*
 3. Get an answer + auto-generated chart instantly
 
 Sample data to test with is in the `data/` folder.
